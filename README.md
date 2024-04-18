@@ -9,4 +9,6 @@ Banner Play 버튼 클릭시 유튜브 동영상 출력 <br/>
 Category 컴포먼트 생성 및 작업
 
 # 24.04.17
-Nav 컴포먼트 Banner 컴포먼트 작업
+Nav 컴포먼트 생성 및 작업 <br/>
+Banner 컴포먼트 생성 및 작업 <br/>
+themoviedb 의 api를 사용해 Banner표시
