@@ -6,7 +6,7 @@ Title React App 표기 수정 <br/>
 Logo 표시 안되는 오류가 있어 표시 <br/>
 Logo 클릭 시 다른 페이지 이동 오류가 있어 경로 수정 <br/>
 Banner Play 버튼 클릭시 유튜브 동영상 출력 <br/>
-Category 컴포먼트 생성 및 작업
+Category 컴포먼트 생성 및 작업 <br/>
 Row 컴포먼트 생성 및 작업
 
 # 24.04.17
